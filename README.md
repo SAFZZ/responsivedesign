@@ -315,20 +315,24 @@ Publish the website in the given URL.
 ## OUTPUT:
 
 ## LARGE SIZE
+
 ![output](./static/img/o1.png)
 ![output](./static/img/o2.png)
 ![output](./static/img/o3.png)
 ![output](./static/img/o4.png)
 
 ## MEDIUM SIZE
+
 ![output](./static/img/o5.png)
 
 ## PHONE SIZE
+
 ![output](./static/img/S1.jpg)
 ![output](./static/img/S2.jpg)
 ![output](./static/img/S3.jpg)
 
 ## VALIDATION REPORT
+
 ![output](./static/img/o6.png)
 ![output](./static/img/o7.png)
 ![output](./static/img/o8.png)
